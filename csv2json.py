@@ -24,4 +24,3 @@ def convert(filename):
 if __name__ == "__main__":
   convert(sys.argv[1:])
 
-#Original basis for this code: http://jaranto.blogspot.com/2012/12/transform-csv-file-to-json-file-with.html
